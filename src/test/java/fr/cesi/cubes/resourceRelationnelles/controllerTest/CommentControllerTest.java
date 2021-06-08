@@ -29,7 +29,7 @@ import fr.cesi.cubes.resourceRelationnelles.request.member.LoginForm;
 public class CommentControllerTest {
 
     private ObjectMapper mapper = new ObjectMapper();
-
+//init la classe objectMapper
     @Autowired
     MemberController     memberController;
 
