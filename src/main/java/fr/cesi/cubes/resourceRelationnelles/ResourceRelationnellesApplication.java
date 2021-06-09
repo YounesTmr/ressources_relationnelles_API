@@ -10,6 +10,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class ResourceRelationnellesApplication {
 
     public static void main( String[] args ) {
+    	//commentaire
         SpringApplication.run( ResourceRelationnellesApplication.class, args );
     }
 
